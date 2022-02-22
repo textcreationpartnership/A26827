@@ -1,0 +1,423 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at Bury St. Edmonds before the Right Reverend Father in God, William, Lord Bishop of Norwich, at the third session of His Lordship's primary visitation holden there on Wednesday May 5th, 1668 by Michael Batt ...</title>
+            <author>Batt, Michael, 1653-1706.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 53 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26827</idno>
+            <idno type="STC">Wing B1145</idno>
+            <idno type="STC">ESTC R20079</idno>
+            <idno type="EEBO-CITATION">12732670</idno>
+            <idno type="OCLC">ocm 12732670</idno>
+            <idno type="VID">66511</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26827)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 66511)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 374:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at Bury St. Edmonds before the Right Reverend Father in God, William, Lord Bishop of Norwich, at the third session of His Lordship's primary visitation holden there on Wednesday May 5th, 1668 by Michael Batt ...</title>
+                  <author>Batt, Michael, 1653-1706.</author>
+               </titleStmt>
+               <extent>[6], 34 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Oliver ... and to be sold by B. Aylmer ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Corinthians, 1st, IV, 21 --  Sermons.</term>
+               <term>Visitation sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="imprimatur">
+            <pb facs="tcp:66511:1"/>
+            <p>IMPRIMATUR.</p>
+            <closer>
+               <signed>
+                  <hi>Jo. Battely</hi> RR<hi rend="sup">mo</hi> Patri ac D<hi rend="sup">no</hi> D<hi rend="sup">no</hi> 
+                  <hi>Wilhelmo</hi> Archiep. <hi>Cantuar.</hi> a Sacris Domeſticis.</signed> 
+               <dateline>
+                  <hi>Ex Aedibus</hi> Lamb. <date>Junii 2. 1686.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:66511:1" rendition="simple:additions"/>
+            <p>A SERMON Preached at <hi>Bury St. Edmonds</hi> Before the Right Reverend Father in God WILLIAM Lord Biſhop of <hi>NORWICH</hi> At the Third Seſſion of His LORDSHIP's <hi>Primary Viſitation</hi> Holden there on <hi>Wedneſday May</hi> 5<hi rend="sup">th.</hi> 1668.</p>
+            <p>By <hi>MICHAEL BATT</hi> M.A. Preacher at St. <hi>James</hi>'s in St. <hi>Edmond</hi>'s <hi>Bury.</hi>
+            </p>
+            <q>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</l>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</l>
+               <l>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</l>
+               <bibl>
+                  <hi>S.</hi> Ignat. <hi>ad</hi> Polycarpum.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>William Oliver,</hi> Bookſeller in <hi>Norwich:</hi> and to be ſold by <hi>B. Aylmer</hi> in <hi>London.</hi> 1686.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:66511:2"/>
+            <pb facs="tcp:66511:2"/>
+            <head>TO The Right Reverend Father in God WILLIAM Lord Biſhop of <hi>NORWICH.</hi>
+            </head>
+            <opener>
+               <salute>My LORD,</salute>
+            </opener>
+            <p>IN Obedience to your Lordſhip I have here taken the Confidence to preſent a very mean, and imperfect Diſcourſe to the View of a moſt <hi>Critical,</hi> and <hi>Diſcerning</hi> Age. And yet might I be allow'd to <hi>plead</hi> the <hi>Haſtineſs of its Com<g ref="char:EOLhyphen"/>poſure,</hi> without being thought to urge a Crime in excuſe of a Crime, and to defend One fault by Another; poſſibly it would need no other Apo<g ref="char:EOLhyphen"/>logy. But if that may not be inſiſted on, I have only this Favour to requeſt of the World, that they would believe the Author to have as mean an Opinion of theſe <hi>Sudden Thoughts,</hi> as They can have, and that They would look upon them only as an inſtance of the incomparable Candor of Your Lordſhip; In pure compliance with whoſe Pleaſure it is, that they are thus made
+<pb facs="tcp:66511:3"/>
+               <hi>publick.</hi> And ſince they <hi>are ſo,</hi> may it pleaſe that God, who can work His ends by very ſmall, and contemptible (for He has oft times done it without <hi>any</hi>) <hi>Means,</hi> to bleſs them for ſome <hi>Good</hi> to thoſe who have not yet learn'd duly to <hi>revere</hi> their Spiritual and Eccleſiaſtical <hi>Supe<g ref="char:EOLhyphen"/>riors.</hi>
+            </p>
+            <p>And may the ſame God long continue your Lordſhip A Bleſſing to his Church, An Ornament to this See, and an Eminent Example of Virtue to All that know You. In <hi>which Prayer,</hi> I am perſwaded, there is not a Perſon in Your whole Dioceſe, that Fears God, Honors the King, or Bears any Affection to the Eſtabliſh'd Religion, but will heartily concur with,</p>
+            <closer>
+               <salute>My Lord,</salute> 
+               <signed>Your Lordſhip's moſt Dutifull Son, and moſt humbly devoted Servant, <hi>MICHAEL BATT.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:66511:3"/>
+            <pb facs="tcp:66511:4"/>
+            <pb n="1" facs="tcp:66511:4"/>
+            <head>A SERMON Preached at <hi>Bury St. Edmond's</hi> Before the Right Reverend Father in God WILLIAM Lord Biſhop of <hi>NORWICH</hi> AT The Third Seſſion of His Lordſhip's Primary Viſitation holden there on <hi>Wedneſday May</hi> 5<hi rend="sup">th.</hi> 1686.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>1 CORINTH. 4.21.</hi>
+                  </bibl>
+                  <p>What will ye? ſhall I come unto you with a Rod, or in Love, and in the Spirit of Meekneſs?</p>
+               </q>
+            </epigraph>
+            <p>NO ſooner had St. <hi>Paul</hi> planted a Church at <hi>Corinth,</hi> (and that with a great deal of <hi>care</hi> and <hi>pains,</hi> con<g ref="char:EOLhyphen"/>tinuing there <hi>a year and ſix months teaching the Word of God among them,</hi> as St. <hi>Luke</hi> gives
+<pb n="2" facs="tcp:66511:5"/>us the Relation of it, <hi>Acts.</hi> 18.) but by the <hi>Craft</hi> and <hi>Envy,</hi> the <hi>Cunning</hi> and <hi>Malice</hi> of the <hi>Devil,</hi> there were the moſt notorious <hi>Diſorders</hi> crept in, and the moſt ſcandalous <hi>Abuſes</hi> and <hi>Corruptions</hi> introduc't <hi>into</hi> it. In particular, there were a <hi>ſort</hi> of <hi>falſe</hi> and <hi>Hae<g ref="char:EOLhyphen"/>retical Teachers</hi> ſtarted up among <hi>Them,</hi> who by the Charms of <hi>Popular Eloquence,</hi> and the little Arts of <hi>Rhetorick,</hi> (for They had nothing elſe to truſt to) making advantage of their <hi>Weakneſs,</hi> had ſo inſinuated them<g ref="char:EOLhyphen"/>ſelves into their <hi>Affections,</hi> that there was no longer <hi>place</hi> for the <hi>Apoſtle there;</hi> theſe <hi>New Inſtructors</hi> had got their <hi>Hearts,</hi> even to the <hi>Excluſion</hi> of their <hi>Father</hi> himſelf, who in <hi>Chriſt Jeſus had begotten them through the Goſ<g ref="char:EOLhyphen"/>pel.</hi> 
+               <label type="milestone">
+                  <seg type="milestoneunit">Ver. </seg>15</label>
+            </p>
+            <p>An <hi>early Stratagem</hi> of the grand Enemy of Mankind was <hi>this,</hi> and ſo ſuccesfull He found it for the creating <hi>Variances,</hi> and <hi>Di<g ref="char:EOLhyphen"/>viſions</hi> among the <hi>Profeſſors</hi> of <hi>Chriſtianity,</hi> that He has been encourag'd to make uſe of the <hi>ſame,</hi> for the infeſting, and diſturbing <hi>theſe latter Ages of the Church</hi> too.</p>
+            <p>And <hi>we</hi> for our parts have had, I'm ſure, the wofull <hi>Experience</hi> of it, that whilſt ſome
+<pb n="3" facs="tcp:66511:5"/>have cried up <hi>this Holy Man,</hi> others mag<g ref="char:EOLhyphen"/>nified <hi>that Godly Teacher,</hi> in <hi>oppoſition</hi> to the <hi>Orthodox eſtabliſh'd Miniſtry;</hi> whilſt People have forſaken, and exchang'd the <hi>publickly</hi> allowed <hi>form of ſound and wholeſome words</hi> for the <hi>Religious Cant</hi> of <hi>Private</hi> Corners, the <hi>Devil</hi>'s ends have been moſt <hi>effectually ſerv'd</hi> among us; <hi>Piety</hi> has <hi>decay'd</hi> and <hi>iniquity abounded, Charity</hi> has waxen <hi>cold,</hi> and <hi>ſtrifes</hi> and <hi>emulations</hi> grown <hi>fierce</hi> and <hi>hot,</hi> to the infinite detriment, and damage of <hi>Religion,</hi> and of the beſt conſtituted <hi>Church</hi> in the <hi>Chriſtian</hi> World.</p>
+            <p>But I forbear inlarging <hi>here,</hi> and return to the <hi>Corinthians,</hi> among <hi>whom</hi> (beſides di<g ref="char:EOLhyphen"/>vers <hi>other</hi> groſs miſcarriages) <hi>this</hi> that hath been mention'd having, in the <hi>Apoſtles ab<g ref="char:EOLhyphen"/>ſence,</hi> got in, <hi>viz.</hi> (their <hi>ſiding, and dividing into Parties</hi> about <hi>their Teachers,</hi> ſome having <hi>this Man's</hi> perſon in admiration, others <hi>that</hi>) St. <hi>Paul</hi> that he might obviate the further miſchief, that might otherwiſe from hence a<g ref="char:EOLhyphen"/>riſe, though he was detain'd at <hi>that time</hi> by ſome other neceſſary Service of the <hi>Church</hi> from a <hi>Perſonal Viſitation, writes</hi> them his mind in <hi>this Epiſtle.</hi> In <hi>which,</hi> after having
+<pb n="4" facs="tcp:66511:6"/>premis'd his <hi>Salutations</hi> of them, and <hi>Thanks<g ref="char:EOLhyphen"/>givings</hi> to God for them, the <hi>firſt</hi> thing he falls upon is the regulating <hi>that</hi> diſorder. And to that end, he decries, and expoſes that <hi>Carnal Wiſedom</hi> they were ſo mightily in love with, gives the <hi>reaſons</hi> of <hi>his own</hi> not affecting thoſe <hi>lofty ſtrains,</hi> for <hi>which others</hi> were had in ſuch eſteem by them, and vindicates his <hi>plain,</hi> and <hi>familiar</hi> manner of Preaching whilſt among them; which indeed is the <hi>main drift</hi> of the <hi>four</hi> firſt Chapters of the Epiſtle.</p>
+            <p>But leſt <hi>this method</hi> ſhould prove <hi>ineffec<g ref="char:EOLhyphen"/>tual,</hi> (as <hi>writing</hi> at a diſtance is not, for the moſt part, ſo moving as <hi>conferring</hi> and <hi>diſ<g ref="char:EOLhyphen"/>courſing</hi> Face to Face) he ſends <hi>Timotheus</hi> unto them, <hi>his beloved Son, and faithfull in the Lord,</hi> as it is <hi>v.</hi> 17. of this Chapter, to <hi>excite</hi> and <hi>perſwade</hi> them to their <hi>duty, by bringing them into remembrance of his ways which were in Chriſt,</hi> both what he had for<g ref="char:EOLhyphen"/>merly taught whilſt among <hi>them,</hi> and what he did yet continue to <hi>teach in every Church.</hi> And <hi>this</hi> indeed lookt like a very <hi>hopefull ex<g ref="char:EOLhyphen"/>pedient,</hi> and was ſuch a courſe, as the <hi>Apo<g ref="char:EOLhyphen"/>ſtle</hi> might <hi>reaſonably</hi> promiſe himſelf <hi>ſucceſs</hi> from.</p>
+            <pb n="5" facs="tcp:66511:6"/>
+            <p> Not but that He had ſtill <hi>One Reſerve</hi> more in caſe of a failure <hi>here</hi> too, and <hi>that</hi> was <hi>The coming among them once again in His own perſon,</hi> which was a <hi>Certain way</hi> if not by <hi>fair</hi> means by <hi>foul,</hi> I mean, if not by <hi>love</hi> and <hi>gentleneſs,</hi> by <hi>fear</hi> and <hi>ſeverity</hi> to reform, and rectify <hi>all Abuſes,</hi> not only <hi>that</hi> hitherto complain'd of, but likewiſe their <hi>toleration of Inceſt,</hi> their <hi>litigious Law-Suits</hi> (and that) <hi>before Infidel-Judges,</hi> their <hi>Propha<g ref="char:EOLhyphen"/>nation of the Sacred elements in the Lord's Sup<g ref="char:EOLhyphen"/>per,</hi> and the <hi>other diſorders and Miſdemea<g ref="char:EOLhyphen"/>nors</hi> reckon'd up in the Sequel of <hi>this Epiſtle.</hi>
+            </p>
+            <p>He reſolves, I ſay, in caſe all other Expe<g ref="char:EOLhyphen"/>dients <hi>fail,</hi> once again to come among them <hi>in perſon,</hi> (declaring <hi>v.</hi> 19. that nothing but <hi>God Almighty</hi> ſhould hinder Him) and <hi>then</hi> take a ſure, and effectual Courſe of re<g ref="char:EOLhyphen"/>dreſſing <hi>All</hi> that was <hi>amiſs.</hi>
+            </p>
+            <p>And, to ſpeak the Truth, He had great reaſon to ſuſpect before-hand that the fore<g ref="char:EOLhyphen"/>mentioned <hi>Means would</hi> prove <hi>inſufficient,</hi> that let Him <hi>write,</hi> or <hi>ſend what,</hi> or <hi>whom ſoever</hi> He pleas'd, the Height and Haughti<g ref="char:EOLhyphen"/>neſs of ſome was <hi>ſuch,</hi> as would not be curb'd, nor taken down thereby.</p>
+            <pb n="6" facs="tcp:66511:7"/>
+            <p> Nay and which was <hi>more,</hi> (and which call'd upon Him to make the more <hi>haſt</hi> to them) it ſhould ſeem that His <hi>Abſence</hi> had already caus'd them to entertain <hi>low,</hi> and <hi>contemptuous</hi> thoughts of <hi>Him</hi> too; For ſo does the Learned <hi>Hammond</hi> paraphraſe the 18th. <hi>ver. Now ſome are puff'd up as though I would not come to you,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <q>Be<g ref="char:EOLhyphen"/>cauſe I come not to you my ſelf perſonal<g ref="char:EOLhyphen"/>ly, ſome among you have taken occaſion to <hi>deſpiſe</hi> me that am abſent.</q>
+            </p>
+            <p>And hence it is that <hi>He reſolves</hi> ver. 19. <hi>I will come to you ſhortly if the Lord will, and will know not the ſpeech of them that are puffed up but the Power.</hi> That is, I'le make <hi>trial</hi> of thoſe confident boaſters, not of their <hi>plau<g ref="char:EOLhyphen"/>ſible words,</hi> and <hi>fine talk,</hi> (at which, I know, they are <hi>excellent;</hi>) but of their <hi>ſolid worth,</hi> and the <hi>real good</hi> they do with all their <hi>oſ<g ref="char:EOLhyphen"/>tentatious braggings. For the Kingdom of God is not in word but in power,</hi> ver. 20. <hi>Chriſtia<g ref="char:EOLhyphen"/>nity</hi> does not conſiſt in <hi>ſpeaking,</hi> but <hi>doing,</hi> not in <hi>vaunting,</hi> but <hi>performing</hi> great Things.</p>
+            <p>And hereupon follow the words of the Text.</p>
+            <pb n="7" facs="tcp:66511:7"/>
+            <p> 
+               <hi>What will ye? ſhall I come unto you with a Rod, or in Love, and in the Spirit of Meek<g ref="char:EOLhyphen"/>neſs?</hi> Which the now-mentioned <hi>Hammond thus</hi> introduces, and explains.</p>
+            <p>
+               <q>And now I talk of coming to you, I pray conſider, which will you chuſe? As you behave your ſelves, ſo at my coming will I exerciſe either my Power of inflic<g ref="char:EOLhyphen"/>ting puniſhments, or the milder way of kindneſs toward you; and therefore ac<g ref="char:EOLhyphen"/>cording as ye like beſt, ſo prepare your ſelves for my coming.</q>
+            </p>
+            <p>In the words of another <hi>Paraphraſt,</hi>
+               <note place="margin">
+                  <hi>Biſh.</hi> Hall.</note> a Re<g ref="char:EOLhyphen"/>verend Prelate of our <hi>Church,</hi> and ſometime of <hi>this Dioceſe.</hi>
+            </p>
+            <p>
+               <q>Let it be your own choice, after what manner I ſhall come unto You; My car<g ref="char:EOLhyphen"/>riage muſt be directed by your deſerts and diſpoſitions; Will you that I ſhall come to You with a Rod of Cenſure to correct your <hi>Exorbitances?</hi> or in Love, and in the Spirit of Meekneſs, to com<g ref="char:EOLhyphen"/>mend and cheriſh your <hi>Holy Proceedings,</hi> and <hi>Chriſtian Carriage?</hi> I ſhall do either of them, as I ſhall receive occaſion from You.</q>
+            </p>
+            <pb n="8" facs="tcp:66511:8"/>
+            <p> Thus you ſee the <hi>Occaſion,</hi> and <hi>Connexion</hi> of the Words, in diſcourſing on which, I ſhall endeavour to do theſe <hi>four</hi> Things.</p>
+            <p n="1">1. <hi>To explain the Power the Apoſtle inti<g ref="char:EOLhyphen"/>mates Himſelf to have in the Church, in theſe words, ſhall I come unto you with a Rod?</hi>
+            </p>
+            <p n="2">2. <hi>To ſhew how far, or in what meaſures and degrees that Power is continued to the Biſhops, and Governors of the Church now.</hi>
+            </p>
+            <p n="3">3. <hi>To take notice how loth and unwilling the Apoſtle was to exerciſe this Power of His but in caſe of abſolute Neceſſity; And how de<g ref="char:EOLhyphen"/>ſirous He was, (as appears from the manner of His expreſſions) that He might have occaſion to uſe only the fair, and gentle Methods.</hi>
+            </p>
+            <p n="4">4. <hi>To exhort Chriſtians to be more obedient to their Spiritual</hi> Paſtors <hi>and</hi> Fathers, <hi>by an orderly and regular Converſation, than to force Them to the <g ref="char:V">Ʋ</g>ſe of that Severity, which They are otherwiſe averſe from.</hi> In ſpeaking to which Particulars, I hope, I ſhall do (in ſome meaſure) <hi>Right</hi> to the <hi>Text,</hi> and no improper or unſuitable <hi>Service</hi> to <hi>this So<g ref="char:EOLhyphen"/>lemnity.</hi>
+            </p>
+            <p n="1">1. <hi>Firſt, for the Power the Apoſtle intimates Himſelf to have in the Church, in theſe words, ſhall I come unto you with a Rod?</hi>
+            </p>
+            <pb n="9" facs="tcp:66511:8"/>
+            <p> Our Bleſſed Saviour after he had publiſh'd His moſt excellent, and Heavenly Doctrine to the World, and lived here a conſiderable time an <hi>Example</hi> of the Practicableneſs of it, and had by divers unqueſtionable <hi>mira<g ref="char:EOLhyphen"/>cles,</hi> and at laſt by His <hi>Death,</hi> and <hi>Reſurrec<g ref="char:EOLhyphen"/>tion</hi> abundantly confirm'd the Truth of it; in ſine, after having <hi>finiſh'd the Work</hi> that was here given Him to do, being to <hi>return</hi> again to the Boſom of His Father, He could not any longer manage in <hi>His own Perſon</hi> the Intereſts and Concerns of <hi>His Church.</hi> But ſtill being touch'd with an infinite <hi>Pity,</hi> and <hi>Compaſſion</hi> for it, and well knowing to what <hi>hazards</hi> its <hi>infancy,</hi> and <hi>tenderneſs</hi> would expoſe it, left it not, till He had con<g ref="char:EOLhyphen"/>ſtituted, and appointed divers <hi>Orders</hi> and <hi>Officers</hi> in it, to whom He committed the <hi>Care,</hi> and whom He inveſted with <hi>Power</hi> ſuf<g ref="char:EOLhyphen"/>ficient to adminiſter, from time to time, to all the <hi>Exigencies,</hi> and <hi>Neceſſities</hi> of it.</p>
+            <p>The precepts of <hi>His Religion</hi> were not like the later Impoſtures of <hi>Mahomet</hi> calcu<g ref="char:EOLhyphen"/>lated on purpoſe for the gratification of Mens <hi>luſts,</hi> and for humoring the <hi>looſeneſs</hi> and <hi>wantonneſs</hi> of the World.</p>
+            <pb n="10" facs="tcp:66511:9"/>
+            <p> No, they were quite of <hi>another nature,</hi> and as <hi>oppoſite</hi> to <hi>thoſe,</hi> as <hi>Light</hi> to <hi>Darkneſs;</hi> requiring <hi>mortification,</hi> and <hi>ſelf-denyal,</hi> and enjoyning Men to <hi>Crucify</hi> their carnal Appe<g ref="char:EOLhyphen"/>tites, and Affections. And was it likely that ſuch an <hi>Inſtitution</hi> as <hi>this</hi> ſhould readily gain <hi>footing</hi> and <hi>Countenance</hi> in the World? or rather, was it not ſure to meet with the ut<g ref="char:EOLhyphen"/>moſt <hi>hatred,</hi> and <hi>oppoſition</hi> imaginable?</p>
+            <p>Moſt certainly <hi>our Saviour</hi> plainly foreſaw it <hi>was,</hi> and <hi>therefore</hi> took Care before His departure to ſettle certain Perſons, <hi>viz.</hi> His <hi>eleven Apoſtles,</hi> (whom He had before ſelec<g ref="char:EOLhyphen"/>ted for that Purpoſe) as His immediate De<g ref="char:EOLhyphen"/>puties, and Vicegerents, giving them in charge to <hi>feed His flock,</hi> to watch over, and provide for <hi>His Church</hi> at preſent <hi>them<g ref="char:EOLhyphen"/>ſelves;</hi> and empowering them, as Occaſion ſhould require, to depute, and Ordain <hi>others</hi> for the ſame ſervice <hi>afterwards;</hi> giving <hi>them,</hi> in ſhort, the ſame <hi>commiſſion</hi> to execute that <hi>He</hi> received of His Father, at His coming into the World, according as we read, <hi>Joh.</hi> 20.21. <hi>As my Father ſent me, even ſo ſend I you.</hi>
+            </p>
+            <pb n="11" facs="tcp:66511:9"/>
+            <p> Now as for our Saviour's <hi>Miſſion;</hi> it will be ſufficient for my preſent purpoſe, if I give you only St. <hi>Peter</hi>'s account of it, <hi>Acts.</hi> 10.38. where in His Sermon to <hi>Cornelius,</hi> and his <hi>Company,</hi> He tells them, <hi>That God anointed Jeſus of Nazareth with the Holy</hi> Ghoſt, <hi>and with</hi> Power. And <hi>accordingly</hi> were <hi>His Apoſtles breath'd on</hi> by <hi>Him,</hi> in or<g ref="char:EOLhyphen"/>der to their inſtallment to a <hi>Succeſſion</hi> in His <hi>Office,</hi> and had the ſame <hi>Spirit,</hi> and <hi>Power</hi> aſſured to <hi>Them;</hi> Which, <hi>not many days</hi> after His Aſcent, they likewiſe <hi>receiv'd,</hi> and were <hi>thereby</hi> enabled both to <hi>gather,</hi> and <hi>govern</hi> the <hi>Church;</hi> effectually to eſtabliſh <hi>Chriſtianity;</hi> and to propagate the <hi>Doctrine of the Goſpel both in Jeruſalem, and in all Ju<g ref="char:EOLhyphen"/>daea, and in Samaria, and unto the uttermoſt parts of the earth,</hi> as it is, <hi>Acts.</hi> 1.8.</p>
+            <p>Though they were deſtitute of all <hi>Secular Helps,</hi> and had no <hi>worldly Advantages</hi> to aſſiſt or further them, and yet were to en<g ref="char:EOLhyphen"/>counter with Mens <hi>riveted opinions, ancient cuſtoms,</hi> and <hi>inveterate habits;</hi> to beat them off from thoſe Practices, and Courſes they had been <hi>uſed to</hi> ever ſince they were born; and to impoſe upon them a <hi>new,</hi> and quite
+<pb n="12" facs="tcp:66511:10"/>
+               <hi>contrary</hi> way of life; reducing them from the ſmooth, and delightfull paths of <hi>Sin</hi> in<g ref="char:EOLhyphen"/>to the more rugged, and tireſom tracks of <hi>Virtue,</hi> yet, ſo effectually were they <hi>endued with power from on high,</hi> as St. <hi>Luke</hi> expreſſes it,<note place="margin">
+                  <hi>Ch.</hi> 24.49.</note> that by <hi>their means,</hi> the <hi>Chriſtian</hi> Faith was in a ſhort time <hi>wonderfully diſſeminated,</hi> and <hi>diffus'd.</hi> Like <hi>lightning,</hi> to borrow our Saviour's alluſion in another caſe, it came from <hi>the Eaſt,</hi>
+               <note place="margin">Matt. 24.27. Acts. 19.20.</note> 
+               <hi>and ſhone even to the Weſt,</hi> and <hi>the word of God grew mightily, and prevail'd,</hi> the <hi>Lord working</hi> with them that publiſh'd it, and <hi>confirming it with ſigns following;</hi>
+               <note place="margin">Mar. 16.20. Heb. 2.4.</note> 
+               <hi>God alſo bearing them witneſs,</hi> as it is in another place, <hi>both with ſigns, and wonders, and with divers miracles, and gifts of the Holy Ghoſt.</hi>
+            </p>
+            <p>And by <hi>this means</hi> it was that though <hi>They had no ſilver and gold,</hi>
+               <note place="margin">Acts. 3.6.</note> they became ca<g ref="char:EOLhyphen"/>pable of exerciſing the moſt <hi>uſefull,</hi> and <hi>bene<g ref="char:EOLhyphen"/>ficial Charity;</hi> though they were not in a condition to relieve the poor Cripple with the <hi>ſmall Alms</hi> he beg'd, yet They help'd him to what was much better, <hi>the uſe of his limbs,</hi> which till that time he had never en<g ref="char:EOLhyphen"/>joy'd, having been <hi>lame from his Mother's Womb.</hi>
+               <note place="margin">
+                  <hi>v.</hi> 2.</note> By which <hi>ſingle</hi> Good Act, and <hi>no<g ref="char:EOLhyphen"/>table
+<pb n="13" facs="tcp:66511:10"/>Miracle</hi> alone, as it is ſtyled, <hi>Acts.</hi> 4.16. They greatly <hi>ingratiated</hi> both <hi>themſelves</hi> and their <hi>Doctrine</hi> too, thereby proſelyting a vaſt multitude of their Auditors to the <hi>Chriſtian Religion,</hi> even to the number of <hi>five thouſand</hi> Men, <hi>v.</hi> 4.</p>
+            <p>Again, though They could not pleaſure <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> with <hi>money</hi> wherewith to repair to a <hi>P<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ician;</hi> yet, which was much more <hi>ac<g ref="char:EOLhyphen"/>ceptable,</hi> as well as <hi>ſurprizing,</hi> at a <hi>word</hi> of their mouth, or a <hi>touch</hi> of their hand, was <hi>Health</hi> many times <hi>reſtor'd.</hi> Nay at their ve<g ref="char:EOLhyphen"/>ry <hi>Shadow</hi> were Diſtempers, and unclean Spi<g ref="char:EOLhyphen"/>rits <hi>ſcar'd,</hi> and <hi>put to flight,</hi> and the poor <hi>Patients</hi> were no longer <hi>vext,</hi> and <hi>tormented</hi> with them.</p>
+            <p>Even the moſt <hi>obſtinate diſeaſes,</hi> and <hi>ſtub<g ref="char:EOLhyphen"/>born maladies</hi> that had long time been <hi>Me<g ref="char:EOLhyphen"/>dicorum ludibrium,</hi> the <hi>Scorn</hi> and <hi>Reproach</hi> of the <hi>Men of Skill,</hi> and had baffled all the Rules of their <hi>Art,</hi> immediately gave place, and vaniſh'd at <hi>their command;</hi> So <hi>large</hi> was their Commiſſion, and in ſuch <hi>general</hi> terms did it run, as to empower them <hi>to heal all manner of ſickneſs, and all manner of diſeaſe.</hi>
+               <note place="margin">Matt. 10.1.</note>
+            </p>
+            <p>I ſhall not inſtance to you, as I might ea<g ref="char:EOLhyphen"/>ſily do, in any of the <hi>other</hi> unwonted gifts,
+<pb n="14" facs="tcp:66511:11"/>and extraordinary abilities, which the <hi>Apo<g ref="char:EOLhyphen"/>ſtles</hi> were veſted with, (as <hi>Propheſying, Spea<g ref="char:EOLhyphen"/>king with tongues, Diſcerning of Spirits,</hi> and <hi>Interpretation of Tongues</hi>) for the better fitting, and qualifying them for that eminent work, and employ to which they were <hi>delegated;</hi> and which render'd them ſo wonderfully helpfull, and beneficial to the world.</p>
+            <p>But, in reference to what I have <hi>already</hi> ſaid, t'was impoſſible but their <hi>doing ſo much good,</hi> in that <hi>particular reſpect</hi> now-mention<g ref="char:EOLhyphen"/>ed, ſhould create in the minds of Men a very high veneration both for <hi>themſelves,</hi> and the <hi>doctrine which they taught.</hi> Whereas <hi>otherwiſe,</hi> we may conclude, there would have been but little regard paid either to the <hi>One,</hi> or the <hi>Other;</hi> but their <hi>Perſons</hi> would have been <hi>ſcorn'd</hi> and <hi>contemn'd,</hi> as be<g ref="char:EOLhyphen"/>ing ſo very <hi>mean,</hi> and <hi>deſpicable;</hi> and the <hi>Goſpel they preach'd</hi> been <hi>diſown'd,</hi> and <hi>rejected,</hi> as being ſo <hi>oppoſite</hi> to the <hi>looſe</hi> and <hi>irreligious tempers</hi> of their Hearers.</p>
+            <p>How infinitely <hi>wiſe</hi> therefore, as well as <hi>kind</hi> and <hi>carefull</hi> did it ſpeak the <hi>Author</hi> of our <hi>Religion,</hi> to ſend forth the <hi>firſt</hi> Planters, and Spreaders of it, ſo <hi>throughly,</hi> and <hi>com<g ref="char:EOLhyphen"/>pleatly</hi> furniſhed for their Work?</p>
+            <pb n="15" facs="tcp:66511:11"/>
+            <p> Though they wanted the benefit of <hi>let<g ref="char:EOLhyphen"/>ters, Inſpiration</hi> enabled them to put to ſi<g ref="char:EOLhyphen"/>lence their moſt <hi>learned Gainſayers;</hi> Though their <hi>ſpeech</hi> (if we take the meaſures of it from <hi>Man's Wiſedom</hi>) was but <hi>rude</hi> and <hi>un<g ref="char:EOLhyphen"/>poliſh't,</hi>
+               <note place="margin">1 Cor. 2 4</note> yet was it <hi>in Demonſtration of the Spirit, and of Power;</hi> though they were <hi>poor,</hi>
+               <note place="margin">2 Cor. 6 10.</note> as the Apoſtle ſpeaks, yet were they in con<g ref="char:EOLhyphen"/>dition of making many <hi>rich,</hi> and that with the moſt true and valuable <hi>riches;</hi> Laſtly, Though in <hi>appearance</hi> they had <hi>nothing,</hi> yet <hi>really</hi> they <hi>poſſeſſed</hi> All Things; All that I have hitherto mention'd being but <hi>Part</hi> of that Power, that was given them of <hi>God,</hi> for the greater Benefit, and Edification of His <hi>Church.</hi>
+            </p>
+            <p>In <hi>particular,</hi> and to come home to the <hi>Text;</hi> for the enabling them the better to diſcharge <hi>the Office</hi> that was laid upon them, there was committed to them <hi>the Power of the Rod,</hi> or of inflicting the ſevereſt of <hi>cor<g ref="char:EOLhyphen"/>poral puniſhments</hi> on groſs, and notorious <hi>Offenders;</hi> of their <hi>doing which</hi> we want not <hi>inſtances</hi> in that account St. <hi>Luke</hi> gives us of <hi>the Acts of the Apoſtles,</hi>
+               <note place="margin">Acts 13.11. <hi>ch.</hi> 5.5.10.</note> 
+               <hi>where</hi> we read of <hi>Elymas</hi> the Sorcerer ſmitten with <hi>Blindneſs</hi>
+               <pb n="16" facs="tcp:66511:12"/>by St. <hi>Paul;</hi> and of <hi>Ananias</hi> and <hi>Sapphira</hi> ſtruck with <hi>Death</hi> it ſelf by St. <hi>Peter; Ei<g ref="char:EOLhyphen"/>ther</hi> of them an <hi>Inſtance</hi> terrible enough of <hi>that Power</hi> and <hi>Authority</hi> which Chriſt, the Head of His <hi>Church,</hi> had given to the <hi>(then) Rulers</hi> and <hi>Governors</hi> of it, of <hi>puniſhing</hi> and <hi>chaſtiſing</hi> Her <hi>undutifull</hi> and <hi>incorrigible Children,</hi> and of <hi>revenging upon them all their diſobedience,</hi> as the <hi>Apoſtle</hi> ſpeaks to theſe his <hi>Corinthians,</hi> 2. Cor. 10.6.</p>
+            <p>Beſides <hi>both which</hi> we have an Example of the Uſe of the <hi>Virga Apoſtolica</hi> in <hi>another</hi> no leſs dreadfull manner, 1 <hi>Tim.</hi> 1.20. where <hi>Hymenaeus</hi> and <hi>Alexander</hi> having <hi>firſt put away a good Conſcience, and at laſt made Ship<g ref="char:EOLhyphen"/>wrack of their Faith too,</hi> (as nothing is more ordinary or natural than for ſuch as are looſe and careleſs in their <hi>Practice</hi> to fall in<g ref="char:EOLhyphen"/>to <hi>Errors in Judgment,</hi> and to be given up to <hi>believe lies</hi>) are by the Apoſtle <hi>deliver'd unto Satan, that they might learn not to blaſpheme.</hi>
+            </p>
+            <p>And this, I ſay, is <hi>another moſt terrible manner,</hi> wherein the Apoſtles <hi>might,</hi> and upon occaſion <hi>did</hi> puniſh <hi>Stubborn</hi> and <hi>re<g ref="char:EOLhyphen"/>fractory</hi> Sinners; to ſee whether the <hi>Devil</hi> could not torment them into <hi>better Manners;</hi>
+               <pb n="17" facs="tcp:66511:12"/>and to <hi>force</hi> them, if poſſible, to <hi>Repentance</hi> and <hi>Reformation of life.</hi>
+            </p>
+            <p>For that That was the End of <hi>delivering over Perſons to Satan,</hi> viz. <hi>the deſtruction of the fleſh, that the Spirit might be ſaved in the day of the Lord Jeſus,</hi> we read <hi>ch.</hi> 5. of <hi>this Epiſtle</hi> v. 5. And it being uſual with God Al<g ref="char:EOLhyphen"/>mighty, in the earlier days of the Goſpel, to give <hi>Satan</hi> leave to ſeize the bodies of ſuch as were for their obſtinate perſeverance in Sin cut off from the <hi>Communion</hi> of the <hi>Church,</hi> (<hi>Who,</hi> (glad of the opportunity) was wont to plague them with <hi>diſeaſes,</hi> and to bring divers <hi>maladies</hi> upon them) <hi>Excom<g ref="char:EOLhyphen"/>munication</hi> is therefore called a <hi>delivering un<g ref="char:EOLhyphen"/>to Satan,</hi> the <hi>power</hi> of doing <hi>which</hi> you have heard, the <hi>Apoſtles had,</hi> yea and did not ſpare, when Occaſion ſo requir'd, to <hi>exerciſe</hi> and <hi>make <g ref="char:V">Ʋ</g>ſe</hi> of <hi>the ſame.</hi>
+            </p>
+            <p>And <hi>this</hi> is That which, I preſume, the <hi>Apoſtle</hi> intends in this His threatning of theſe delinquent <hi>Corinthians</hi> in my Text; where<g ref="char:EOLhyphen"/>in He gives them to underſtand that in caſe He heard not of a <hi>ſpeedy amendment,</hi> they muſt not expect to be <hi>dallied</hi> with, or to eſcape with a <hi>ſlight</hi> and <hi>eaſie</hi> Penance, but
+<pb n="18" facs="tcp:66511:13"/>that He would ſoon come in Perſon among them, and proceed, <hi>according to the Power the Lord had given Him,</hi> to <hi>this</hi> moſt ſevere Eccleſiaſtical Cenſure upon them.</p>
+            <p>And indeed had the <hi>Apoſtle</hi> been <hi>deſtitute</hi> of <hi>this Power,</hi> and could not have animad<g ref="char:EOLhyphen"/>verted <hi>in this manner as has been ſaid</hi> on the more <hi>bold</hi> and <hi>hardned</hi> tranſgreſſors, there being at that time no <hi>Chriſtian</hi> Magiſtrates, and conſequently the <hi>Civil</hi> Power not of His Side; ſo little would He have been able to have gone through the <hi>Work</hi> He had un<g ref="char:EOLhyphen"/>dertaken, <hi>the propagating the Religion of His Lord,</hi> that He could never have vindicated it from <hi>Contempt,</hi> much leſs have conciliated any <hi>tolerable reſpect</hi> either to Himſelf or It, but People would have contumaciouſly deſ<g ref="char:EOLhyphen"/>pis'd <hi>His Sentences</hi> and <hi>Determinations,</hi> and have made a mock of violating, and tramp<g ref="char:EOLhyphen"/>ling upon the Laws of His <hi>New Religion.</hi>
+            </p>
+            <p>Whereas, when They perceiv'd Him arm'd with a <hi>Power</hi> of exerciſing ſuch a <hi>Diſcipline</hi> upon them, as was follow'd with ſuch <hi>ſtrange</hi> and <hi>frightfull</hi> effects, <hi>great fear fell upon all the Church,</hi>
+               <note place="margin">Acts 5.<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note> as 'tis ſaid in reference to that dreadfull Caſe of <hi>Ananias</hi> and <hi>Sapphira,</hi> nay.
+<pb n="19" facs="tcp:66511:13"/>
+               <hi>as many as</hi> but <hi>heard of thoſe things</hi> were mightily influenced thereby, they were <hi>aw<g ref="char:EOLhyphen"/>ed</hi> into <hi>Compliance,</hi> and <hi>Obedience</hi> to Him, and <hi>durſt</hi> not any longer <hi>oppoſe</hi> or <hi>withſtand</hi> Him.</p>
+            <p>And this ſhall ſuffice to have been ſpoken as to the <hi>Power</hi> of the <hi>Apoſtle,</hi> which He here terms His <hi>Rod,</hi> and to the <hi>Nature, Ne<g ref="char:EOLhyphen"/>ceſſity,</hi> and <hi>Efficacy,</hi> thereof in the <hi>Infancy,</hi> and <hi>Nonage</hi> of the <hi>Church.</hi>
+            </p>
+            <p n="2">2. My next Enquiry muſt be <hi>in what Meaſures, and Degrees this Apoſtolical Power is continued to the Biſhops, and Governors of the Church now.</hi>
+            </p>
+            <p>The true Oecumenical <hi>Biſhop,</hi> and <hi>good Shepherd</hi> of Souls, though at firſt He ſent forth His Apoſtles like <hi>Sheep among Wolves,</hi>
+               <note place="margin">Matt. 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.16.</note> as Himſelf Speaks, yet he engaged they ſhould never be <hi>utterly worried,</hi> and <hi>deſtroy'd</hi> by them; But admit, when <hi>they</hi> had ſerved Him in their generations, they <hi>might,</hi> (as moſt of them afterwards <hi>did</hi>) Suffer violent deaths in their <hi>own perſons;</hi> they ſhould ſtill ſurvive in their<note n="*" place="margin">Quia A<g ref="char:EOLhyphen"/>poſtoli à mundo re<g ref="char:EOLhyphen"/>ceſſe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>unt, h<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>bes pro illis Epiſ<g ref="char:EOLhyphen"/>copos filios. S. <hi>Hiero<g ref="char:EOLhyphen"/>nymus</hi> in <hi>Pſ 45.</hi> ver. <hi>16.</hi>
+               </note> 
+               <hi>Succeſſors,</hi> and their <hi>Order</hi> ſhould be perpetuated from age to age, according to the import of the promiſe of <hi>His being
+<pb n="20" facs="tcp:66511:14"/>with them alway</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Matt.</hi> 28. <hi>ult.</hi> (which is rightly tranſlated <hi>even un<g ref="char:EOLhyphen"/>to the End of the World,</hi> as the <hi>ſame phraſe</hi> does likewiſe <hi>ſignify,</hi> chap. 13.39. Where our Saviour explaining to His Diſciples the parable of the <hi>Sower,</hi> tells them by <hi>Harveſt</hi> is to be underſtood <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>The end of the World.</hi>)</p>
+            <p>But ſtill that the <hi>Succeſſors</hi> of the <hi>Apoſtles</hi> now-adays <hi>have,</hi> in all reſpects, that <hi>Pleni<g ref="char:EOLhyphen"/>tude of Power</hi> continued to <hi>them,</hi> which the <hi>Apoſtles</hi> themſelves at firſt enjoy'd, or that it is at all neceſſary they <hi>ſhould have,</hi> I by no means affirm.</p>
+            <p>For ſuch was the State of the <hi>Church</hi> in the <hi>Apoſtles</hi> time, as required an <hi>extraordina<g ref="char:EOLhyphen"/>ry effuſion</hi> of the gifts of the Spirit, and could not be manag'd without ſuch a Divine, and Supernatural Aſſiſtance as, God be thank'd, there is in our time no <hi>neceſſity</hi> of; The righ<g ref="char:EOLhyphen"/>teous and mercifull Lord having long ſince made good His gracious promiſes to it, <hi>that Kings ſhould become the Nurſing Fathers,</hi>
+               <note place="margin">Iſa. 49.23.</note> 
+               <hi>and Queens the Nurſing Mothers of it.</hi>
+            </p>
+            <p>Whereas 'twas ordinary with the <hi>Apoſtles,</hi> where ever <hi>they</hi> came to publiſh the tidings
+<pb n="21" facs="tcp:66511:14"/>of the Goſpel, to meet with <hi>diſcouragements,</hi> and <hi>oppoſitions, and to be brought before Rulers for ſpeaking in the name of Jeſus;</hi> Whole <hi>Na<g ref="char:EOLhyphen"/>tions,</hi> and <hi>Countries</hi> have <hi>now</hi> eſpous'd <hi>His Religion,</hi> and the Profeſſion of it is not on<g ref="char:EOLhyphen"/>ly tolerated and allow'd, but ſtrictly com<g ref="char:EOLhyphen"/>manded, and enjoyn'd even by the laws, and conſtitutions of <hi>Kingdoms.</hi>
+            </p>
+            <p>What need therefore is there <hi>now</hi> of thoſe <hi>Supernatural</hi> and <hi>miraculous Gifts,</hi> and <hi>Pow<g ref="char:EOLhyphen"/>ers</hi> that were confer'd upon the <hi>Apoſtles?</hi>
+            </p>
+            <p>The difficult task of gaining <hi>admittance</hi> of <hi>Chriſtianity</hi> into the World is long ſince <hi>o<g ref="char:EOLhyphen"/>ver;</hi> The Miracles that were <hi>formerly</hi> wrought are ſufficient Credentials for the Truth of that Meſſage the <hi>preſent</hi> Miniſters of the Goſpel deliver, and the Laws of their Countrey protect them in the <hi>due</hi> and <hi>regu<g ref="char:EOLhyphen"/>lar</hi> diſcharge of their Office; The <hi>Kings</hi> of the Earth having not only <hi>embrac'd,</hi> and <hi>ſub<g ref="char:EOLhyphen"/>mitted</hi> themſelves to the <hi>Faith</hi> of <hi>Chriſt,</hi> but glorying in the Style, and Character of being the <hi>Defenders</hi> of it.</p>
+            <p>As therefore <hi>de facto</hi> there <hi>is</hi> not; ſo nei<g ref="char:EOLhyphen"/>ther is it <hi>needfull</hi> there <hi>ſhould</hi> be a <hi>Continuati<g ref="char:EOLhyphen"/>on</hi> of thoſe <hi>antient</hi> branches of the <hi>Apoſtles</hi>
+               <pb n="22" facs="tcp:66511:15"/>Power, whereby they were enabled to work <hi>Miracles, ſome</hi> of Kindneſs, and <hi>ſome</hi> of Se<g ref="char:EOLhyphen"/>verity, and by <hi>Both</hi> to confirm and eſtabliſh the <hi>Favourers,</hi> and to ſilence, and confound the <hi>Oppoſers</hi> of, (their till then unheard of) Doctrine.</p>
+            <p>'Tis <hi>ſufficient</hi> that there is <hi>ſuch a ſtanding</hi> and <hi>perpetual</hi> Part of <hi>that Power</hi> tranſmitted, and to be tranſmitted to their <hi>lateſt Succeſ<g ref="char:EOLhyphen"/>ſors,</hi> as qualifies them for the exerciſing ſuch a Diſcipline, and Government in the <hi>Church,</hi> as Her preſent <hi>adult</hi> and <hi>grown</hi> Eſtate can <hi>ordinarily require.</hi>
+            </p>
+            <p>And <hi>ſuch</hi> we are <hi>aſſur'd,</hi> and <hi>thankfull</hi> too that there is. And not only <hi>Hereticks,</hi> and <hi>Schiſmaticks,</hi> but all ſuch Perſons as are <hi>im<g ref="char:EOLhyphen"/>pudently diſſolute,</hi> and <hi>immoral in their lives,</hi> may know, that though <hi>miraculous inflicti<g ref="char:EOLhyphen"/>ons</hi> are ceas'd, there are ſtill <hi>Penances,</hi> and <hi>Ex<g ref="char:EOLhyphen"/>communications</hi> to be made uſe of againſt them.</p>
+            <p>And <hi>Theſe!</hi> how mightily were they <hi>re<g ref="char:EOLhyphen"/>ver'd,</hi> and how awfully <hi>regarded</hi> by the <hi>Pri<g ref="char:EOLhyphen"/>mitive,</hi> and <hi>Purer</hi> Ages of <hi>Chriſtianity?</hi>
+            </p>
+            <p>'Twas <hi>then</hi> reputed a Sentence <hi>terrible</hi> e<g ref="char:EOLhyphen"/>nough to be excluded from the <hi>Publick Ordi<g ref="char:EOLhyphen"/>nances;</hi> To be debar'd the <hi>Church-Prayers,</hi>
+               <pb n="23" facs="tcp:66511:15"/>and <hi>Sacraments,</hi> and baniſhed from the <hi>Com<g ref="char:EOLhyphen"/>munion</hi> of their <hi>Brethren</hi> impreſsd upon the minds of Men the moſt <hi>ſad,</hi> and <hi>diſmal</hi> Re<g ref="char:EOLhyphen"/>flections, and even ſwallow'd them up with Horror, and Aſtoniſhment.</p>
+            <p>Such was the Anguiſh of Soul that ſeiz'd thoſe Criminals that lay under the <hi>Sentence</hi> and <hi>Cenſure</hi> of the <hi>Church,</hi> that the methods of <hi>Prayers, Sighs,</hi> and <hi>Tears</hi> were willingly undertaken by them in order to the recovery of <hi>Her Favour.</hi>
+            </p>
+            <p>And Eccleſiaſtical Hiſtory informs us that even <hi>Theodoſius</hi> the Emperor being excom<g ref="char:EOLhyphen"/>municated by St. <hi>Ambroſe,</hi> teſtified the <hi>in<g ref="char:EOLhyphen"/>ward</hi> trouble and concern of His Mind, by all the <hi>outward</hi> expreſſions of Grief, and Sor<g ref="char:EOLhyphen"/>row; He diſrob'd Himſelf of His <hi>Imperial Purple,</hi> and put on the <hi>Garments of Mourning;</hi> yea for the Space of <hi>Eight Months</hi> together He humbled Himſelf in His <hi>penitential Weeds,</hi> and took ſhame to Himſelf for the foulneſs of His Crime, <hi>The giving way to the Shedding of a great deal of innocent Blood,</hi> and <hi>at laſt</hi> eſteemed it an <hi>ineſtimable Privilege</hi> to be again admitted into the Church of <hi>Milan.</hi>
+            </p>
+            <p>Thus <hi>ſacred,</hi> and that long after the <hi>Apo<g ref="char:EOLhyphen"/>ſtles</hi>
+               <pb n="24" facs="tcp:66511:16"/>time, (this paſſage happening towards the latter End of the <hi>fourth Century</hi>) was the Churche's <hi>Authority;</hi> and ſo greatly reve<g ref="char:EOLhyphen"/>renced was Her <hi>Diſcipline,</hi> by all Orders, and Degrees of Men.</p>
+            <p>Nor is <hi>That</hi> which She <hi>now</hi> brandiſhes a <hi>Brutum Fulmen,</hi> Her hand is not <hi>now</hi> ſo ſhort<g ref="char:EOLhyphen"/>ned, but that She can upon juſt Provocation Stretch it forth <hi>ſtill,</hi> to Strike as <hi>hard,</hi> and correct as <hi>ſharply</hi> as <hi>then.</hi>
+            </p>
+            <p>When Her Head and Founder firſt incor<g ref="char:EOLhyphen"/>porated Her into a <hi>Community,</hi> He veſted Her with <hi>Power,</hi> (as all other Communities <hi>are,</hi> and <hi>muſt</hi> be that are deſign'd <hi>long to ſub<g ref="char:EOLhyphen"/>ſiſt</hi>) and promis'd She ſhould <hi>for ever</hi> retain a ſhare of it, <hi>ſufficient</hi> for the puniſhing ſuch <hi>Members of Her Society,</hi> as ſhould, at any time, <hi>preſumptuouſly</hi> violate the Laws, and Conſti<g ref="char:EOLhyphen"/>tutions of it.</p>
+            <p>And to <hi>this Power</hi> have the Eccleſiaſtical Superintendents, and Governors, <hi>all along,</hi> (when <hi>need</hi> has ſo requir'd) not Stuck to have <hi>recourſe;</hi> Rather than not maintain the <hi>Churche's Purity,</hi> and <hi>Peace,</hi> They have <hi>ever</hi> ſmartly <hi>chaſtis'd</hi> that Vice, and Wickedneſs that has eclips'd, and defac'd the <hi>One,</hi> and
+<pb n="25" facs="tcp:66511:16"/>thoſe <hi>Diviſions,</hi> and Diſorders that have diſ<g ref="char:EOLhyphen"/>turb'd, and endanger'd the <hi>Other.</hi>
+            </p>
+            <p>And if (as it may poſſibly be <hi>urg'd</hi> that) Perſons now-adays <hi>deſpiſe theſe Chaſtiſements, regard</hi> not <hi>Church-Cenſures,</hi> and <hi>are</hi> not ſo <hi>a<g ref="char:EOLhyphen"/>fraid of them,</hi> nor <hi>awed by them</hi> as <hi>formerly;</hi> It ſhall ſuffice me to reply, That a Man's <hi>ſtupid inſenſibility</hi> (in many caſes) argues his condition not to be the <hi>better,</hi> but the <hi>worſe;</hi> They are but ſo much the more worthy of <hi>Blame,</hi> I will add, and <hi>Pity</hi> too; In a word, I look upon <hi>this Practice</hi> of theirs; as one In<g ref="char:EOLhyphen"/>ſtance of that wofull Degeneracy of <hi>the laſt days,</hi> wherein the <hi>Apoſtle</hi> long ſince <hi>foretold</hi> us, that Men ſhould not only be <hi>diſobedient,</hi>
+               <note place="margin">2 Tim. 3.2, 3, 4.</note> 
+               <hi>unthankfull,</hi> and <hi>unholy;</hi> But <hi>proud, fierce,</hi> and <hi>heady.</hi>
+            </p>
+            <p>And thus I diſmiſs the ſecond Thing, <hi>viz.</hi> That the Biſhops, and Governors of the Church <hi>now</hi> have the <hi>Power of the Rod</hi> con<g ref="char:EOLhyphen"/>tinued to <hi>them</hi> in a meaſure <hi>ſufficient, pro hoc ſtatu;</hi> though not ſo <hi>large</hi> and <hi>full</hi> as their <hi>firſt Predeceſſors</hi> had. And yet, of the <hi>two,</hi> no doubt, They had <hi>rather,</hi> after St. <hi>Paul's</hi> example (which is my third Particular,)</p>
+            <p n="3">3. <hi>Have occaſion to uſe only the fair, and
+<pb n="26" facs="tcp:66511:17"/>gentle Methods;</hi> This the Apoſtle's <hi>manner of Expreſſion</hi> in my Text, <hi>What will ye? Shall I come?</hi> &amp;c. intimates <hi>Him</hi> to have been moſt deſirous of; The putting the <hi>queſtion</hi> to the <hi>Corinthians,</hi> as He does, being in effect a <hi>telling</hi> them, it ſhould be purely <hi>their own fault, if</hi> He came unto them with a <hi>Rod,</hi> and not in <hi>Love,</hi> and in the <hi>Spirit of Meekneſs.</hi>
+            </p>
+            <p>He well remember'd, t'was the Service of <hi>the Prince of Peace</hi> that he was engag'd in, <hi>viz. The divulging the Goſpel of Peace,</hi> (Bring<g ref="char:EOLhyphen"/>ing Men over, <hi>at firſt,</hi> to the <hi>Profeſſion,</hi> and <hi>then</hi> preſerving them in the <hi>Practice</hi> of it,) and he <hi>accordingly attempted</hi> to do it in the moſt <hi>meek,</hi> and <hi>peaceable</hi> manner.</p>
+            <p>Had He delighted in <hi>Severity,</hi> or been fond of making Uſe of <hi>His Power,</hi> He would never have troubled Himſelf to have given the Offenders ſuch fair warning to <hi>prevent,</hi> and <hi>eſcape</hi> it, by a timely Amendment, and Reformation of life. His thus <hi>premoniſhing</hi> them of the <hi>Tendency</hi> of their preſent doings, whilſt 'twas yet in their power to <hi>evade</hi> it, argued great <hi>tenderneſs,</hi> and <hi>indulgence,</hi> yea a truly <hi>Paternal kindneſs</hi> towards them. The affection of a <hi>Father</hi> prompting Him to <hi>me<g ref="char:EOLhyphen"/>nace,</hi>
+               <pb n="27" facs="tcp:66511:17"/>and <hi>threaten</hi> Puniſhment, to the very End, that He might <hi>not execute,</hi> and <hi>inflict</hi> it. Suitable to what He has, 2 <hi>Cor.</hi> 13.10. Therefore, <hi>I write theſe things being abſent, leſt being preſent I ſhould uſe ſharpneſs;</hi> 
+               <q>For <hi>this reaſon</hi> I give you theſe <hi>wholeſome war<g ref="char:EOLhyphen"/>nings</hi> before I come, that when I come, I may not have occaſion to proceed to <hi>ex<g ref="char:EOLhyphen"/>ciſion</hi> and <hi>excommunication,</hi> as againſt <hi>con<g ref="char:EOLhyphen"/>tumacious Offenders</hi> I muſt <hi>of neceſſity</hi> do.</q>
+            </p>
+            <p>Thus truly <hi>Chriſtian,</hi> and exactly reſem<g ref="char:EOLhyphen"/>bling <hi>that</hi> of the <hi>meek,</hi> and <hi>lowly Jeſus,</hi> was the Temper of our <hi>Apoſtle;</hi> He was very loth to be <hi>harſh</hi> and <hi>rigorous,</hi> if His Buſineſs might be effected without it;<note n="*" place="margin">Ille dolet. quoties co<g ref="char:EOLhyphen"/>gitur eſſe ferox.</note> and will<g ref="char:EOLhyphen"/>ing not only to <hi>reſpite,</hi> and <hi>ſuſpend,</hi> but wholly to <hi>withhold</hi> the Puniſhments due to <hi>Evil-doers,</hi> in caſe He could by any <hi>milder</hi> way attain His Ends on them; Provided they would but be reclaim'd by <hi>kindneſs,</hi> and won upon by <hi>candid <g ref="char:V">Ʋ</g>ſage.</hi>
+            </p>
+            <p>'Twas in his opinion a more <hi>noble</hi> and <hi>manly</hi> way of victory to conquer Mens <hi>wills,</hi> and captivate their <hi>underſtandings,</hi> than to uſe <hi>force</hi> and <hi>violence</hi> upon their <hi>Perſons.</hi> But ſtill He was not ſo <hi>cruelly complaiſant</hi> neither,
+<pb n="28" facs="tcp:66511:18"/>as not to put a Rub in the way of Him that He ſaw poſting to his <hi>ruine;</hi> or to ſuffer impenitent Sinners to <hi>damn</hi> themſelves with<g ref="char:EOLhyphen"/>out <hi>Check.</hi>
+            </p>
+            <p>No, in that caſe He took His <hi>Rod</hi> in hand out of meer <hi>Pity; chaſtening</hi> them therewith as an Argument of His <hi>Love,</hi> &amp; <hi>ſcourging</hi> them to ſhew His <hi>Compaſſion</hi>
+               <note n="*" place="margin">
+                  <p>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</p>
+                  <p>Scriptor Reſponſionu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n ad Orthodoxos.</p>
+               </note>.</p>
+            <p>The <hi>Church</hi> is in Scripture not unfitly re<g ref="char:EOLhyphen"/>ſembled to a <hi>Vineyard,</hi> (as <hi>Iſa.</hi> 5. and elſe<g ref="char:EOLhyphen"/>where) and that upon <hi>ſeveral</hi> accounts, but <hi>none</hi> more aptly than <hi>this;</hi> That even the <hi>noble Vine</hi> (as the Prophet <hi>Jeremy</hi>'s Epithet is) is wont to have its <hi>luxuriances,</hi>
+               <note place="margin">Jer. 2.21.</note> and <hi>excreſcen<g ref="char:EOLhyphen"/>cies,</hi> which till they be <hi>prun'd away,</hi> and <hi>lop'd off,</hi> it either produces <hi>no fruit,</hi> or elſe ſuch as never comes to <hi>Maturity,</hi> and <hi>Per<g ref="char:EOLhyphen"/>fection.</hi> And <hi>accordingly</hi> in the <hi>Church,</hi> there are <hi>thoſe</hi> that have <hi>embraced,</hi> at leaſt that make daily <hi>profeſſion</hi> of <hi>the Faith of Chriſt; thoſe</hi> that have been baptized into the <hi>beſt Religion</hi> in the World, and are yet guilty of ſuch notorious <hi>exorbitances,</hi> and <hi>irregula<g ref="char:EOLhyphen"/>rities</hi> in their lives, as the Maſters in God's <hi>Spiritual Husbandry,</hi> the <hi>Biſhops</hi> and <hi>Paſtors</hi>
+               <pb n="29" facs="tcp:66511:18"/>of His <hi>Church</hi> muſt be forced to <hi>reclaim</hi> and <hi>rectifie</hi> by the <hi>Diſcipline</hi> of their <hi>Cenſures,</hi> or there will never be any <hi>Good</hi> to be expected from them. Rather, they will turn at laſt, (to keep to the Prophet's <hi>Allegory</hi>) to <hi>degene<g ref="char:EOLhyphen"/>rate plants of a ſtrange Vine,</hi> and become ut<g ref="char:EOLhyphen"/>terly <hi>unprofitable branches,</hi> fit only to be <hi>caſt forth till they wither,</hi> and <hi>then to be gathered, and caſt into the fire, and burned.</hi>
+               <note place="margin">Joh 15.6.</note>
+            </p>
+            <p>Thus you ſee the <hi>Paſtors</hi> and <hi>Governors</hi> of the <hi>Church</hi> are of neceſſity <hi>compell'd</hi> ſometimes to <hi>uſe ſharpneſs;</hi> And unleſs They <hi>could be</hi> (as their near Relation will not <hi>ſuffer</hi> them) wholly <hi>indifferent</hi> to the <hi>Welfare</hi> of thoſe un<g ref="char:EOLhyphen"/>der their <hi>Care,</hi> They <hi>muſt, in ſome caſes,</hi> do it, though with never ſo much <hi>reluctance.</hi>
+            </p>
+            <p>Nay, the <hi>welfare</hi> of thoſe who are <hi>actu<g ref="char:EOLhyphen"/>ally delinquent</hi> is not concern'd <hi>alone</hi> neither, but there is infinite danger leſt <hi>their</hi> Counte<g ref="char:EOLhyphen"/>nance and Example ſhould inveigle <hi>others,</hi> and draw <hi>them</hi> at laſt into the ſame Miſery and Perdition with <hi>themſelves.</hi> And theſe are <hi>Conſequences</hi> ſo <hi>ſad,</hi> and <hi>miſchievous,</hi> as that they muſt be prevented by any <hi>lawfull</hi> means, though haply <hi>ſuch</hi> as may Prove <hi>harſh</hi> and <hi>cutting;</hi> And yet <hi>Cuncta priùs ten<g ref="char:EOLhyphen"/>tanda</hi>
+               <pb n="30" facs="tcp:66511:19"/>be ſtill the Churche's Motto in the caſe; For <hi>this</hi> hinders not, but rather proves and confirms (according to what I am now aſſerting) the <hi>Apoſtolick</hi> temper <hi>naturally</hi> to <hi>incline</hi> to <hi>Chriſtian tenderneſs,</hi> and <hi>pity.</hi>
+            </p>
+            <p>And ſo much for the third Thing, That albeit the <hi>Apoſtle</hi> was furniſh'd with <hi>Power</hi> ſufficient to <hi>puniſh</hi> all Stubborn Offenders in the <hi>Church,</hi> yet He was very <hi>loth,</hi> and <hi>unwil<g ref="char:EOLhyphen"/>ling</hi> to exerciſe and make uſe of it, but in caſe of pure <hi>neceſſity,</hi> being much rather de<g ref="char:EOLhyphen"/>ſirous He might have occaſion to uſe only the <hi>fair,</hi> and <hi>gentle</hi> means.</p>
+            <p n="4">4. And ſo I proceed to the <hi>fourth</hi> and <hi>laſt</hi> Thing propounded, namely, <hi>To exhort Chriſ<g ref="char:EOLhyphen"/>tians to be more obedient to their Spiritual Paſ<g ref="char:EOLhyphen"/>tors, and Fathers, by an orderly and regular converſation, than to force them to the uſe of that Severity, which They are of themſelves averſe from.</hi>
+            </p>
+            <p>And <hi>here</hi> methinks there ſhould nothing <hi>More</hi> be needfull to prevail with Men to yield a hearty, and willing <hi>Obedience to thoſe that are over them in the Lord,</hi> than a Con<g ref="char:EOLhyphen"/>ſideration, what Their <hi>Office</hi> and <hi>Employ</hi> is, which is in Scripture term'd, <hi>a Watching for Mens Souls.</hi>
+            </p>
+            <pb n="31" facs="tcp:66511:19"/>
+            <p> An <hi>Office</hi> above all others ſo vaſtly <hi>benefi<g ref="char:EOLhyphen"/>cial</hi> to the World, that 'twere to be expec<g ref="char:EOLhyphen"/>ted, <hi>Meer Gratitude</hi> ſhould put Men upon endeavouring to render it as <hi>ſweet,</hi> and <hi>eaſie</hi> as poſſible to Them that <hi>Suſtain</hi> it; <hi>And Kind<g ref="char:EOLhyphen"/>neſs to themſelves</hi> oblige <hi>them</hi> to be <hi>ſubmiſſive and obedient to it.</hi>
+            </p>
+            <p>This the <hi>Apoſtle</hi> thought a <hi>good Argument</hi> for Chriſtians <hi>to obey them that have the rule over them,</hi> even <hi>their watching for their Souls;</hi>
+               <note place="margin">Heb. 13.17.</note> And <hi>ſuch</hi> moſt certainly would it appear, were it but <hi>conſider'd</hi> aright.</p>
+            <p>For can Men <hi>reaſonably ſuſpect</hi> that <hi>They</hi> whoſe <hi>aims</hi> and <hi>deſigns</hi> are ſo infinitely <hi>kind,</hi> and <hi>charitable</hi> towards them, ſhould require any thing of them that is really <hi>hurtfull</hi> and <hi>prejudicial</hi> to them? Can they <hi>be jealous</hi> of <hi>enmity</hi> from <hi>Them,</hi> whoſe conſtant endea<g ref="char:EOLhyphen"/>vour it is to <hi>befriend</hi> them, and that in the moſt <hi>important inſtance of</hi> Friendſhip? Laſtly, Can <hi>they juſtly fear</hi> any <hi>Harm</hi> from Thoſe, whoſe daily <hi>task,</hi> and <hi>buſineſs</hi> it is to doe all the <hi>Good</hi> they can to as many as are <hi>commit<g ref="char:EOLhyphen"/>ted to their Charge,</hi> Yea, I may add, who <hi>dare not but do it,</hi> being, as the Apoſtle ſpeaks, <hi>to give account?</hi>
+            </p>
+            <pb n="32" facs="tcp:66511:20"/>
+            <p> And yet 'twould be a matter of great <hi>won<g ref="char:EOLhyphen"/>der,</hi> did not the <hi>commonneſs</hi> abate it, that the <hi>wholeſome</hi> and <hi>profitable,</hi> the <hi>grave</hi> and <hi>wiſe,</hi> the <hi>kind</hi> and <hi>friendly</hi> Advices of their <hi>Eccle<g ref="char:EOLhyphen"/>ſiaſtical Superiors</hi> ſhould be ſo <hi>ſlightly regar<g ref="char:EOLhyphen"/>ded,</hi> and not more <hi>readily complied with</hi> by them than they are; That there ſhould be thoſe among us who <hi>being told</hi> by Them of their <hi>Duty</hi> never ſo plainly, continue to <hi>neg<g ref="char:EOLhyphen"/>lect</hi> it; that being <hi>premoniſh'd</hi> never ſo <hi>fair<g ref="char:EOLhyphen"/>ly</hi> refuſe to <hi>take warning,</hi> till <hi>like Children,</hi> I mean not in <hi>meekneſs, innocence,</hi> and <hi>ſimpli<g ref="char:EOLhyphen"/>city,</hi> (they are far enough from that) but in <hi>croſſneſs,</hi> and <hi>ſtubbornneſs,</hi> they are <hi>whip'd</hi> into <hi>Obedience.</hi>
+            </p>
+            <p>Though their <hi>Spiritual Guides,</hi> as they are <hi>the Ambaſſadors of Chriſt,</hi> would <hi>rather</hi> beſeech, intreat,<note place="margin">2 Cor. 5.20.</note> and <hi>pray them,</hi> as St. <hi>Paul</hi> ſpeaks, <hi>in Chriſt's ſtead, that they would be reconcil'd to God,</hi> than come as <hi>His Heralds</hi> to <hi>proclaim War,</hi> and <hi>denounce Vengeance againſt them;</hi> Though as <hi>Paranymphs</hi> of the <hi>Heavenly Bride<g ref="char:EOLhyphen"/>groom,</hi> they had rather <hi>court</hi> and <hi>perſwade</hi> His <hi>wandring</hi> and <hi>inconſtant Spouſe</hi> to return to His <hi>Love,</hi> and re-admit His dear <hi>Embraces,</hi> (if by that means they might <hi>prevail</hi> with Her)
+<pb n="33" facs="tcp:66511:20"/>than <hi>threaten</hi> Her with an <hi>Eternal Divorce;</hi> Yet, howſoever it comes to paſs, the <hi>latter</hi> me<g ref="char:EOLhyphen"/>thods are they fain, for the moſt part, to have <hi>recourſe</hi> to. So madly do Men <hi>flee</hi> their <hi>Hap<g ref="char:EOLhyphen"/>pineſs,</hi> and <hi>forſake their own Mercies.</hi>
+               <note place="margin">Jonah 2.8.</note>
+            </p>
+            <p>Nay with <hi>ſome,</hi> Experience abundantly teaches that even <hi>Theſe,</hi> (I mean the <hi>ſharpeſt courſes</hi>) loſe their <hi>Effect; They</hi> being ſo far from <hi>trembling at</hi> (as was <hi>uſual heretofore</hi>) that they <hi>ſlight,</hi> and <hi>contemn</hi> the <hi>ſevereſt Sentences,</hi> and <hi>Denunciations</hi> of the <hi>Church.</hi>
+            </p>
+            <p>But all I have, at preſent, to ſay to <hi>ſuch,</hi> is to deſire them to recollect the <hi>Proverb,</hi> and to conſider well the <hi>Meaning</hi> of it, <hi>That what they ſpit againſt Heaven will fall in their face;</hi> That the time will come, when the great <hi>Biſhop of Souls</hi> will interpret Mens <hi>deſ<g ref="char:EOLhyphen"/>piſing</hi> of thoſe that were commiſſionated <hi>un<g ref="char:EOLhyphen"/>der Him, as a deſpiſing of Himſelf;</hi>
+               <note place="margin">Luk. 10.16.</note> And <hi>ſure<g ref="char:EOLhyphen"/>ly</hi> they will not be ſo fool-hardy as to <hi>diſ<g ref="char:EOLhyphen"/>regard,</hi> and <hi>piſh at</hi> the diſmal conſequences of <hi>that</hi> too. Surely, they will for the <hi>future, quietly,</hi> and <hi>dutifully</hi> ſubmit themſelves to their <hi>Spiritual Governors;</hi> and if not be drawn by the <hi>Cords of love alone</hi> to obey <hi>their orders,</hi> and reverence <hi>their injunctions;</hi> at leaſt
+<pb n="34" facs="tcp:66511:21"/>not contumaciouſly <hi>oppoſe themſelves,</hi> and ſtand out againſt <hi>their Authority,</hi> leſt haply, as was ſaid in another caſe,<note place="margin">Acts 5 39.</note> 
+               <hi>they be hereafter found to have fought againſt God.</hi>
+            </p>
+            <p>I ſhall conclude all with one word to You, <hi>my Brethren in the Sacred Function,</hi> and it ſhall be by way of <hi>entreaty,</hi> That foraſmuch as we are commanded <hi>in all things to ſhew our ſelves Patterns of good works;</hi> and <hi>Enſamples to our Flocks,</hi> We may be carefull (as certainly we have <hi>as much reaſon (to ſay no more)</hi> as any <hi>Clergy</hi> in the Kingdom) to approve our ſelves <hi>ſuch</hi> in <hi>this particular reſpect,</hi> I mean, <hi>In hum<g ref="char:EOLhyphen"/>bly and chearfully complying</hi> with, <hi>and ſubmit<g ref="char:EOLhyphen"/>ting our ſelves</hi> to <hi>all the Injunctions of our Re<g ref="char:EOLhyphen"/>verend Dioceſan.</hi>
+            </p>
+            <p>And let us earneſtly implore <hi>the God of peace,</hi>
+               <note place="margin">Heb. 13.20, 21.</note> 
+               <hi>that brought again from the dead our Lord Jeſus Chriſt, that great Shepherd of the Sheep, through the blood of the everlaſting Covenant, to make both us,</hi> and all that we have the inſpec<g ref="char:EOLhyphen"/>tion over, <hi>perfect in every good work, to do His Will, and to work in us all whatſoever is well pleaſing in His ſight, through Jeſus Chriſt, to whom be Glory for ever, and ever.</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:66511:21" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
